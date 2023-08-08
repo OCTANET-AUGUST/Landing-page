@@ -79,7 +79,7 @@ body{
     display: flex;
     flex-direction: column;
     justify-content: space-around;
-    height: 200px;
+    height: 250px;
 }
 
 /* Skills */
@@ -109,12 +109,12 @@ body{
     display: flex;
     flex-direction: column;
     justify-content: space-between;
-    /* align-items: center; */
+    
 }
 .projectinner{
     display: flex;  
     justify-content: space-between;
-    /* flex-direction: column; */
+    
 }
 
 .projectinner img{
@@ -124,11 +124,6 @@ body{
     margin-top: 20px;
 
 }
-
-/* .usabilityhub{
-    margin-top: 25px;
-} */
-
 /* footer */
 
 .footer{
