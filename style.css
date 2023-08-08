@@ -79,7 +79,7 @@ body{
     display: flex;
     flex-direction: column;
     justify-content: space-around;
-    height: 250px;
+    height: 400px;
 }
 
 /* Skills */
@@ -125,9 +125,7 @@ body{
 
 }
 
-#xyz{
-    font-size: 24px;
-}
+
 /* footer */
 
 .footer{
