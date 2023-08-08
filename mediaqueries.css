@@ -20,7 +20,7 @@
 
     .intro{
         margin:0;
-        width: 73%;
+        width: 80%;
     }
     .head img{
         width: 120px;
@@ -29,19 +29,19 @@
     /* About us */
 
     .about-us {
-        height: 300px;
+        height: 360px;
     }
 
     /* skills */
 
     .skills{
-        height: 450px;
+        height: 500px;
     }
 
     /* project */
 
     .project{
-        height: 450px;
+        height: 500px;
     }
 
     .projectinner{
@@ -50,10 +50,6 @@
 
     .projectinner img{
         width: 300px;
-    }
-
-    .usabilityhub{
-        margin-top: 20px;
     }
 
     /* footer */

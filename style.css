@@ -105,29 +105,24 @@ body{
 /* project */
 
 .project{
-    height: 350px;
+    height: auto;
     display: flex;
     flex-direction: column;
     justify-content: space-between;
 }
 .projectinner{
-    display: flex;
+    display: flex;  
     justify-content: space-between;
 }
 
 .projectinner img{
-    width: 500px;
+    width: 350px;
     height: auto;
     border: 2px solid #18264e;
     margin-top: 20px;
 
 }
 
-.projectinner video{
-    width: 500px;
-    height: auto;
-    border: 2px solid #18264e;
-}
 /* footer */
 
 .footer{
