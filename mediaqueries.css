@@ -1,0 +1,64 @@
+@media screen and (min-width:0px) and (max-width:479px) {
+   
+    #portfolio{
+        display: none;
+    }
+
+    .container{
+        margin: 30px;
+    }
+    .horizontal-line{
+        display: none;
+    }
+
+    /* Head */
+    .head{
+        height: 250px;
+        flex-direction: column;
+        text-align: center;
+    }
+
+    .intro{
+        margin:0;
+        width: 73%;
+    }
+    .head img{
+        width: 120px;
+    }
+    
+    /* About us */
+
+    .about-us {
+        height: 300px;
+    }
+
+    /* skills */
+
+    .skills{
+        height: 450px;
+    }
+
+    /* project */
+
+    .project{
+        height: 450px;
+    }
+
+    .projectinner{
+        flex-direction: column;
+    }
+
+    .projectinner img{
+        width: 300px;
+    }
+
+    .usabilityhub{
+        margin-top: 20px;
+    }
+
+    /* footer */
+
+    .footer{
+        height: 300px;
+    }
+}
